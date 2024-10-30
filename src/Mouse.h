@@ -37,8 +37,8 @@
 #define MOUSE_LEFT 1
 #define MOUSE_RIGHT 2
 #define MOUSE_MIDDLE 4
-#define MOUSE_BUTTON4 8    // Dodali smo definiciju za BUTTON4
-#define MOUSE_BUTTON5 16   // Dodali smo definiciju za BUTTON5
+#define MOUSE_BUTTON4 8    // BUTTON4
+#define MOUSE_BUTTON5 16   // BUTTON5
 #define MOUSE_ALL (MOUSE_LEFT | MOUSE_RIGHT | MOUSE_MIDDLE | MOUSE_BUTTON4 | MOUSE_BUTTON5)
 
 class Mouse_
